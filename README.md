@@ -50,3 +50,7 @@ Put each dataset into separate overlays that can be turned on and off independen
 
 Add layer controls to your map.
 
+NOTES:
+This challenege was quite informative on structuring data within a map and visualizing earthquake data around the world.  Adding layers to the street map and utilizing pop up boxes on each data point are useful in painting a picture with our data and contributes to telling the story that we want to display to anyone with an interest in examining this kind of data. 
+I also worked alongside a tutor writing the code to create the maps.
+
